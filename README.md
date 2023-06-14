@@ -21,3 +21,5 @@ The provided code is a bash script that performs a series of operations related 
 17. Checks out the main branch, creates a new branch if it doesn't exist, and performs the necessary commits and pushes.
 
 Overall, this script automates the process of creating and managing branches, committing changes, and pushing them to a Git repository. It also handles the merging and deletion of previous day's branches.
+
+useful links: https://linuxhint.com/run-zsh-script/
