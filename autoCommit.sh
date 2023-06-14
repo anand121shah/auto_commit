@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the directory path
-directory="/home/xypnox/notes/"
+directory="/home/user/notes/"
 
 # Change to the specified directory
 cd $directory
