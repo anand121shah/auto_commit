@@ -22,4 +22,12 @@ The provided code is a bash script that performs a series of operations related 
 
 Overall, this script automates the process of creating and managing branches, committing changes, and pushing them to a Git repository. It also handles the merging and deletion of previous day's branches.
 
-useful links: https://linuxhint.com/run-zsh-script/
+**To run a ZSH script, you can follow these steps:**
+
+    Open your terminal or command prompt.
+    Ensure that you have ZSH installed on your system. If not, you can install it using the package manager for your operating system (e.g., apt for Ubuntu, brew for macOS).
+    Navigate to the directory where your ZSH script is located using the cd command. For example, if your script is in the ~/scripts directory, run: cd ~/scripts.
+    Make sure the script file has executable permissions. If not, you can give it executable permissions using the chmod command. For example, if your script is named myscript.zsh, run: chmod +x myscript.zsh.
+    Finally, run the ZSH script by typing ./ followed by the script's filename. For example, if your script is named myscript.zsh, run: ./myscript.zsh.
+
+By following these steps, your ZSH script should execute, and you'll see the output or any actions performed by the script in your terminal.
