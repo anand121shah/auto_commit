@@ -2,6 +2,7 @@
 
 The provided code is a bash script that performs a series of operations related to version control using Git. Here's a breakdown of what the code does:
 
+
 1. Sets the directory path to `/home/user/notes/`.
 2. Changes the current working directory to the specified directory.
 3. Defines the branch name based on the current date (`YYYY-MM-DD`) and the human-readable date in the format `HH:MM:SS DD Mon YYYY`.
